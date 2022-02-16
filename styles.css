@@ -5,19 +5,17 @@ body{
  background-attachment: fixed;
  font-family: Comic Sans MS;
  font-weight: 300;
- font-size: x-large;
+ font-size: 100%;
  color: ivory;
 }
 /* Adds background, font color,size */
+
 
 .nav wrapper{
  margin: 0 0;
  width: 2000px;
 }
 /* Wrapper for my navigation bar*/
-
-h2{color: #55d6aa}
-/* header font color*/
 
 .wrapper{
  margin: 0 auto;
