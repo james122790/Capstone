@@ -139,22 +139,37 @@ caption{font-size: xx-large;
        }
 /* caption look*/
 
-.gallery{
-   margin: 5px 10px;
+/*CONTACT FORM*/
+.contact_form{ 
+   margin-left:auto;
+   margin-right:auto;
+   width:100px;
 }
-/* spacing in wrapper*/
 
-.gallery img{
-   padding: 10px;
-   width: auto;
+/*CONTACT FORM TEXT INPUT*/
+.contact_form input{
+	font-family: 'Tahoma', sans-serif;
+	line-height: 3;
+	width: 300px;
 }
-/* space between images*/
 
-.gallery img:hover {
-   filter: grayscale(100%);
-   transform: scale(1.1)
+/*CONTACT FORM TEXT AREA*/
+.contact_form textarea{
+	font-family: 'Tahoma', sans-serif;
+	height: 200px;
+	width: 300px;
 }
-/* effect when mouse hovers over images*/
+
+/*CONTACT FORM SUBMIT BUTTON*/
+.contact_form input[type=submit]{
+	background-color: #294a34;
+	font-family: 'Tahoma', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	color: white;
   
 .nav .current {
    background-color: ivory;
