@@ -68,7 +68,6 @@ nav li{
  display: inline-block;
  margin-left:15px;
  padding: 35px;
- content: "|";
 }
 /* puts nav links in a row and creates spacing in between*/
 
