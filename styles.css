@@ -175,3 +175,25 @@ caption{font-size: xx-large;
    background-color: ivory;
 }
 /* tells user what page is active*/
+	
+table{
+ width: 850px;
+ margin: auto auto;
+}
+/* table size*/
+
+th{
+ text-align: left;
+ font-size: xx-large;
+}
+/* table header text location and size*/
+
+table, th, td {
+ border: 1px solid #55d6aa;
+}
+/* adds border around table*/
+
+td{
+ font-size: x-large;
+}
+/* changes data font size*/
