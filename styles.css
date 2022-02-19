@@ -197,3 +197,13 @@ td{
  font-size: x-large;
 }
 /* changes data font size*/
+
+.vl {
+border-left: 6px solid black;
+height: auto;
+position: absolute;
+left: 50%;
+top: 0;
+}
+		
+
