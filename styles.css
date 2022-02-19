@@ -6,7 +6,7 @@ body{
  font-family: Comic Sans MS;
  font-weight: 300;
  font-size: x-large;
- color: ivory;
+ color: black;
 }
 /* Adds background, font color,size */
 
@@ -171,28 +171,6 @@ caption{font-size: xx-large;
 	width: 100%;
 	color: white;
  
-	
-table{
- width: 850px;
- margin: auto auto;
-}
-/* table size*/
-
-th{
- text-align: left;
- font-size: xx-large;
-}
-/* table header text location and size*/
-
-table, th, td {
- border: 1px solid #55d6aa;
-}
-/* adds border around table*/
-
-td{
- font-size: x-large;
-}
-/* changes data font size*/
 
  aside {
   background-color: #F6F3ED;
