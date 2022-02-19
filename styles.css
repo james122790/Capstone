@@ -202,5 +202,10 @@ td{
 }
 	
 	
-		
+.department {
+  color: #783F27;
+  font-family: Comic Sans MS;
+  font-size: .8em;
+  text-transform: uppercase;
+}		
 
