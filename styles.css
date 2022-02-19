@@ -86,6 +86,11 @@ nav ul li a:hover{
 }
 /*effect when mouse is hovering over nav links*/
 
+nav .current {
+   background-color: ivory;
+}
+/* tells user what page is active*/
+
 hr{width:90%;
    border: ivory;
    height: 12px;
@@ -165,11 +170,7 @@ caption{font-size: xx-large;
 	margin-right: auto;
 	width: 100%;
 	color: white;
-  
-.nav .current {
-   background-color: ivory;
-}
-/* tells user what page is active*/
+ 
 	
 table{
  width: 850px;
@@ -193,7 +194,7 @@ td{
 }
 /* changes data font size*/
 
-.vl {
+vl {
 border-left: 6px solid black;
 height: auto;
 position: absolute;
